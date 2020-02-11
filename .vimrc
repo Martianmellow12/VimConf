@@ -17,6 +17,8 @@ set smartindent	" Enable smart-indent
 set smarttab	" Enable smart-tabs
 set softtabstop=4	" Number of spaces per Tab
 
+colorscheme koehler " Set the colorscheme to something that isn't eye-searing
+
 "" Advanced
 set ruler	" Show row and column ruler information
 
